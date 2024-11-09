@@ -1,0 +1,23 @@
+{
+  "name": "@pvs-package/fetch-data",
+  "version": "1.0.0",
+  "description": "React custom hook to fetch data!",
+  "main": "useFetchData.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavithravignesh/useFetchData.git"
+  },
+  "author": "pvs-package",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavithravignesh/useFetchData/issues"
+  },
+  "homepage": "https://github.com/Pavithravignesh/useFetchData#readme",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
